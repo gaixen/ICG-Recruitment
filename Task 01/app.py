@@ -16,6 +16,8 @@ def home():
 
 @app.route('/predict', methods=['POST'])
 def predict():
+    power_usage=float(request.form['PowerUsage'])
+    time=float(request.form['Time'])
     features = [float(request.form[f'F{i}']) for i in range(1, 29)]
     df = pd.DataFrame([features], columns=[f'F{i}' for i in range(1, 29)])
     transformed = pt.transform(df)
