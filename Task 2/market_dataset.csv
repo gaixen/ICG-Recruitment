@@ -1,0 +1,31 @@
+Company_name,Ticker_symbol,Revenue,Net_income,EPS,Earnings_call_summary,Sentiment_score
+Apple Inc.,AAPL,400366010368,97294000128,6.41,Strong iPhone 15 sales; services division saw record revenue; focus on AI integration.,0.93
+Microsoft Corporation,MSFT,270010007552,96635002880,12.92,Azure growth strong; AI tools like Copilot widely adopted; cloud demand remains high.,0.894
+"Amazon.com, Inc.",AMZN,650313007104,65943998464,6.14,AWS revenue stabilized; focus on cost-cutting; AI investments in retail efficiency.,0.586
+Alphabet Inc.,GOOGL,359713013760,110995996672,8.95,Search and YouTube ad growth returned; Gemini AI launched; cloud turning profitable.,0.83
+"Meta Platforms, Inc.",META,170359996416,66635001856,25.61,Strong ad performance; Reality Labs losses widen; AI recommendations improved.,0.673
+"Tesla, Inc.",TSLA,95724003328,6106999808,1.75,Margins impacted due to price cuts; Cybertruck production under way; energy storage up.,-0.263
+NVIDIA Corporation,NVDA,130497003520,72879996928,2.94,Record GPU sales driven by AI demand; strong data center growth; gaming stable.,0.806
+N/A,BRK.B,0,0,0.0,Insurance profits rose; Apple remains top holding; record cash reserves; disciplined M&A.,0.816
+JPMorgan Chase & Co.,JPM,168713994240,58242998272,20.38,Strong investment banking fees; credit losses stable; cautious macroeconomic outlook.,0.351
+Johnson & Johnson,JNJ,89330999296,21809999872,8.99,Pharma sales steady; MedTech devices grew; consumer spin-off Kenvue completed.,0.807
+The Procter & Gamble Company,PG,83926999040,15205999616,6.29,Price hikes boosted sales; strong growth in fabric and home care; volume slightly down.,0.714
+Visa Inc.,V,37620998144,19641999360,9.94,Payment volumes increased; travel-related spend high; digital wallet partnerships expanded.,0.831
+Mastercard Incorporated,MA,29069000704,13143000064,14.24,Cross-border volumes rose; AI used in fraud detection; healthy consumer spending observed.,0.711
+Walmart Inc.,WMT,685086015488,18819000320,2.34,E-commerce and groceries grew; cautious consumer sentiment noted; automation investment.,0.548
+"The Home Depot, Inc.",HD,162952003584,14638999552,14.74,Professional customer sales rose; home improvement demand softened slightly post-COVID boom.,0.707
+Exxon Mobil Corporation,XOM,341088010240,33173000192,7.54,Refining margins high; renewable projects scaling; cautious capex despite oil profits.,0.288
+Chevron Corporation,CVX,195112992768,15660000256,8.74,Strong upstream profits; LNG demand rising; Permian Basin output increased.,0.746
+The Coca-Cola Company,KO,46890000384,10784000000,2.49,Volume flat but price mix favorable; growth in zero-sugar drinks; FX headwinds remain.,0.392
+"PepsiCo, Inc.",PEP,91522998272,9370000384,6.8,Snacks division grew rapidly; beverage margins improved; resilient global demand.,0.9
+McDonald's Corporation,MCD,25706999808,8161999872,11.32,Same-store sales up; digital channels expanded; cost inflation partially offset.,0.387
+The Walt Disney Company,DIS,94039998464,8910000128,4.9,Streaming losses narrowed; Disney+ subscribers grew; linear TV continues to decline.,-0.35
+"Netflix, Inc.",NFLX,40173326336,9269773312,21.22,Password-sharing crackdown drove user growth; ad tier expanded; content spending stable.,0.652
+Intel Corporation,INTC,53043998720,-19196000256,-4.48,Foundry business separated; weak PC demand offset by AI chip push; cautious guidance.,-0.249
+"Advanced Micro Devices, Inc.",AMD,27750000640,2227000064,1.37,Data center and AI chips gained momentum; gaming revenue flat; guidance raised.,0.61
+Adobe Inc.,ADBE,22037000192,6751000064,15.16,Creative Cloud subscriptions strong; Firefly AI tools integrated; ARR growth solid.,0.89
+"Salesforce, Inc.",CRM,37895000064,6197000192,6.37,Margins improved; AI features launched in Salesforce Cloud; customer retention high.,0.885
+The Boeing Company,BA,69444001792,-11655000064,-17.96,Aircraft deliveries rose; defense business under pressure; production delays continue.,-0.584
+"NIKE, Inc.",NKE,47817998336,4508000256,3.01,DTC sales rose; China recovery solid; inventory management improving post-surge.,0.847
+Verizon Communications Inc.,VZ,135292002304,17782999040,4.2,5G subscriber growth steady; revenue stable; focus on cost cuts and rural rollout.,0.722
+AT&T Inc.,T,122934001664,11745999872,1.63,Wireless revenue solid; broadband additions grew; debt reduction remains a focus.,0.846
