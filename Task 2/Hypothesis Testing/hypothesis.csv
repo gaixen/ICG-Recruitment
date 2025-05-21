@@ -1,6 +1,6 @@
 Company Name,Hypo-1,Hypo-2,Hypo-3,Reasoning
 Coca-Cola,False,True,False,"Hypo1: No AI emphasis observed, P/E data only for non-AI years; Hypo2: 100% of years show matching sentiment and EBITDA result; Hypo3: Correlation between R&D Intensity and Revenue Growth: -0.68"
-JP Morgan,True,True,False,"Hypo1: Only AI years available, P/E ratio is high; Hypo2: 100% of years show matching sentiment and EBITDA result; Hypo3: Correlation between R&D Intensity and Revenue Growth: -0.48
+JP Morgan,True,True,False,"Hypo1: Only AI years available, P/E ratio is high; Hypo2: 100% of years show matching sentiment and EBITDA result; Hypo3: Correlation between R&D Intensity and Revenue Growth: -0.48"
 Mastercard,False,True,True,"Hypo-1: Hypo1: No AI emphasis observed, P/E data only for non-AI years; Hypo2: 100% of years show matching sentiment and EBITDA result; Hypo3: Correlation between R&D Intensity and Revenue Growth: 0.30"
 Meta,False,True,True,"Hypo1: No AI emphasis observed, P/E data only for non-AI years; Hypo2: 100% of years show matching sentiment and EBITDA result; Hypo3: Correlation between R&D Intensity and Revenue Growth: 0.31"
 Tesla,True,True,False,"Hypo1: Only AI years available, P/E ratio is high; Hypo2: 100% of years show matching sentiment and EBITDA result; Hypo3: Correlation between R&D Intensity and Revenue Growth: -0.38"
