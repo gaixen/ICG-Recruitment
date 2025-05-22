@@ -2,7 +2,7 @@ Attach ``Task 01/model_technical_joblib.py`` at the end of ``Task 01/SmartFactor
 - place ``app.py`` in root folder
 - place ``index.html``inside ``templates/``
 - create ``model_technicals/`` folder and add all saved ``.joblib`` files
-- Then run ``app.py`` locally sing
+- Then run ``app.py`` locally using
 ```
 python app.py
 ```
