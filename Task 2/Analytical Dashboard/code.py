@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 df = pd.read_csv("/content/icg_recruitment_dataset.csv")
 df_sorted = df.sort_values(by=['Annual_Revenue', 'Revenue_Growth_Pct'], ascending=[False, False])
 top_5_companies = df_sorted.head(5)
-print("Top 5 companies for potential market insight (based on Revenue and Growth):")
+#print("Top 5 companies for potential market insight (based on Revenue and Growth):")
 print(top_5_companies[['Company', 'Annual_Revenue', 'Revenue_Growth_Pct', 'EBITDA_Actual', 'P/E_Ratio']])
 
 
